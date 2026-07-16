@@ -43,7 +43,7 @@ The code file resposible for all the contents in your website. Ex: text, forms, 
 ### CSS 
 The code files responsible for styling these contents. Ex: Background color, Styling of buttons(rounded corners) etc..
 
-## JS
+### JS
 Enables the website to have functionality and makes them dynamic for the user to interact with. Ex: Send an email etc..
 
 
