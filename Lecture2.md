@@ -25,5 +25,5 @@
 ## Void Elements
 
 - Elements that do not allow any content inside the tags
-- Ex: <hr /> or <hr>(horizontal rule), <br /> or <br>(break)
+- Ex: hr (horizontal rule), br(break)
 - Do not use void element in paragraphs unless completely necessary, as this is not a good terms in terms of accessebility.
