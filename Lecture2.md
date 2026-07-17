@@ -1,4 +1,4 @@
-# HTMML
+# HTML
 
 ### Note: **Sir Tim Bernes Le** - Inventor of the internet, creater of world's first website
 
