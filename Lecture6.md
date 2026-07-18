@@ -34,7 +34,9 @@
 - Used most commonly in websites
 
 Inline - Used for single element
+
 Internal - Used for single webpage
+
 External - Used for multi-page website
 
 ## CSS Selectors
