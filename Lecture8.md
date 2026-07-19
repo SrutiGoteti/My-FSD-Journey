@@ -41,4 +41,12 @@ Therefore, we can instead make use of the following:
 ### Combining combiners
 - combining the decendant and chaining selectors methods
 
+## CSS Positioning
+
+- Static Positioning - follows the default flow
+- Relative Positioning - relative to default position
+- Absolute Positioning - relative to the nearest positioned ancestor or top left corner of webpage
+- z-index - higher z-index - sent forwrd, lower z-index - sent backward
+- Fixed Positioning - relative to top left corner of browser window 
+
 
